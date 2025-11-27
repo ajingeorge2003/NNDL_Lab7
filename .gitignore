@@ -31,11 +31,6 @@ wheels/
 *~
 .DS_Store
 
-# Project specific
-*.h5
-*.keras
-models/*.h5
-models/*.keras
 plots/
 results/
 .cache/
